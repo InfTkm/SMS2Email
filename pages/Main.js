@@ -133,7 +133,6 @@ const Main = ({navigation}) => {
       <View style={styles.row}>
       <Button style={styles.btn} title="Start Polling" onPress={pollNewSMS}/>
       <Button style={styles.btn} title="End Polling" onPress={endPoll}/></View>
-      <Button title="About" onPress={() => navigation.navigate('About')}/>
     </View></View>)
 }
 
