@@ -1,6 +1,7 @@
 # Update 
 It turns out the best approach is using Google's Message App, which can connect to a web interface.  
 The primary phone can login and get texts from the web interface. Then save the website on the homescreen. Voila. 
+But still, this simple app can be a good demo implementation for beginner developers who are interested in doing SMS reading in their APP.
 # SMStoEmail
 I have a SIM card from another country used solely as a verification code receiver.  
 Unfortunately, my primary phone doesn't support dual sim.  
