@@ -19,4 +19,4 @@ You first need a file `config.js` in the root directory, which export `from`, `t
 `to` is the email you want to notify.  
 `auth` is the SendGrid authentication token.  
 
-`react-native run-androi` as a normal react native program.
+`react-native run-android` as a normal react native program.
